@@ -1,0 +1,34 @@
+body{background-image:url("https://static.vecteezy.com/ti/photos-gratuite/p2/19764305-blanc-abstrait-avec-courbe-modele-contexte-toile-de-fond-pour-presentation-conception-pour-site-internet-gratuit-photo.jpg");}
+
+.div1 {
+    width: 200px;
+    height: 200px;
+    background-color: royalblue;
+  }
+  .div2 {
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+  }
+  .div3 {
+    width: 200px;
+    height: 200px;
+    background-color: mediumslateblue;
+  }
+  .div4 {
+    width: 200px;
+    height: 200px;
+    background-color: skyblue;
+  }
+  .div5{
+    width: 200px;
+    height: 200px;
+    background-color: violet
+  }
+  .bloc{
+    height:200px;
+    top: 15px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+  }
